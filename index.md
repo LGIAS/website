@@ -21,6 +21,7 @@ Our water polo apps and hardware, built to work together.
 <a href="/wpcam"><img src="/assets/camera-icon.png" alt="Water Polo Camera" style="display: block; width: 96px; height: 96px; border-radius: 22%; margin: 0 auto 0.6rem;"></a>
 <a href="/wpcam"><strong>Water Polo Camera</strong></a>
 <p style="font-size: 0.9rem; color: #555; margin: 0.3rem 0 0;">Film a game with the live score and clock right on the video.</p>
+<p style="margin: 0.6rem 0 0;"><a href="https://apps.apple.com/app/apple-store/id6792160496?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store" style="height: 40px; width: auto;"></a></p>
 </div>
 <div style="width: 170px; text-align: center;">
 <a href="/wprefassist"><img src="/assets/referee-icon.png" alt="Water Polo Referee Companion" style="display: block; width: 96px; height: 96px; border-radius: 22%; margin: 0 auto 0.6rem;"></a>
