@@ -29,4 +29,10 @@ Our water polo apps and hardware, built to work together.
 <p style="font-size: 0.9rem; color: #555; margin: 0.3rem 0 0;">Clock and score cues in a referee's headset.</p>
 <p style="margin: 0.6rem 0 0;"><a href="https://apps.apple.com/app/apple-store/id6792252703?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store" style="height: 40px; width: auto;"></a></p>
 </div>
+<div style="width: 170px; text-align: center;">
+<a href="/wplog"><img src="/assets/wplog-icon.png" alt="Water Polo Log" style="display: block; width: 96px; height: 96px; border-radius: 22%; margin: 0 auto 0.6rem;"></a>
+<a href="/wplog"><strong>Water Polo Log</strong></a>
+<p style="font-size: 0.9rem; color: #555; margin: 0.3rem 0 0;">The digital scorebook: the game sheet writes itself.</p>
+<p style="font-size: 0.85rem; color: #888; margin: 0.6rem 0 0;"><em>Coming soon</em></p>
+</div>
 </div>
