@@ -33,6 +33,6 @@ Our water polo apps and hardware, built to work together.
 <a href="/wplog"><img src="/assets/wplog-icon.png" alt="Water Polo Log" style="display: block; width: 96px; height: 96px; border-radius: 22%; margin: 0 auto 0.6rem;"></a>
 <a href="/wplog"><strong>Water Polo Log</strong></a>
 <p style="font-size: 0.9rem; color: #555; margin: 0.3rem 0 0;">The digital scorebook: the game sheet writes itself.</p>
-<p style="font-size: 0.85rem; color: #888; margin: 0.6rem 0 0;"><em>Coming soon</em></p>
+<p style="font-size: 0.85rem; color: #888; margin: 0.6rem 0 0;"><em>Coming soon to the App Store</em></p>
 </div>
 </div>
