@@ -1,0 +1,14 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- comment -%}
+  Stock minima 2.5.1 head, plus the custom-head include that minima only
+  gained in later versions; without this override, custom-head.html (favicon,
+  nav dropdown styles) is silently ignored by the GitHub Pages build.
+  {%- endcomment -%}
+  {%- include custom-head.html -%}
+</head>
