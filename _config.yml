@@ -3,9 +3,6 @@ email: inquiries@lgias.com
 description: >-
   LGIAS builds apps and connected hardware. Today, we build for water polo.
 theme: minima
-header_pages:
-  - wpboard/index.md
-  - wpcam/index.md
-  - wprefassist/index.md
-  - about/index.md
-  - support/index.md
+# The header nav is hand-built in _includes/header.html (a "Water Polo"
+# products dropdown plus About and Support); minima's header_pages list is
+# unused and intentionally absent.

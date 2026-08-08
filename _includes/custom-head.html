@@ -1,1 +1,44 @@
 <link rel="icon" type="image/png" href="{{ "/assets/camera-icon.png" | relative_url }}">
+<style>
+/* "Water Polo" nav dropdown (details/summary, no JS). Desktop: floating
+   menu under the trigger. Phone (minima hamburger, <=600px): inline group. */
+.nav-dropdown { position: relative; display: inline-block; }
+.nav-dropdown > summary {
+  cursor: pointer;
+  list-style: none;
+  display: inline-block;
+}
+.nav-dropdown > summary::-webkit-details-marker { display: none; }
+.nav-dropdown > summary::after { content: " \25BE"; font-size: 0.8em; }
+.nav-dropdown-menu {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  margin-top: 6px;
+  background: #fdfdfd;
+  border: 1px solid #e8e8e8;
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  padding: 8px 14px;
+  min-width: 12rem;
+  z-index: 10;
+  text-align: left;
+}
+.nav-dropdown-menu .page-link {
+  display: block;
+  margin: 6px 0;
+  white-space: nowrap;
+}
+@media screen and (max-width: 600px) {
+  .nav-dropdown { display: block; }
+  .nav-dropdown-menu {
+    position: static;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    padding: 0 0 0 14px;
+    margin-top: 0;
+    min-width: 0;
+  }
+}
+</style>
