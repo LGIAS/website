@@ -9,11 +9,11 @@ Los Gatos Integrated Applied Systems LLC ("we", "our", or "us") provides the Wat
 
 ## 1. Information Collection and Use
 
-We do not collect, transmit, store, or share any personal information, location data, or usage metrics. All game logs, rosters, and statistics are created by the user and stored entirely on the user's device. Live scoreboard timing is received locally over a special wireless network (from a companion receiver device) and is not transmitted to external servers or over the internet.
+We do not collect, transmit, store, or share any personal information, location data, or usage metrics. All game logs and statistics are created by the user and stored entirely on the user's device. Live scoreboard timing is received locally over a special wireless network (from a companion receiver device) and is not transmitted to external servers or over the internet.
 
 ## 2. User Content and Exports
 
-Game data entered in the App (game logs, player rosters, statistics, and game sheets) stays on the device unless the user explicitly exports or shares it. Exports (such as game files, CSV rosters, or PDF game sheets) are created locally and handed to the destination the user chooses through the standard iOS share mechanisms. We never receive a copy.
+Game data entered in the App (game logs, statistics, and game sheets) stays on the device unless the user explicitly exports or shares it. Exports (such as game files, CSV files, or PDF game sheets) are created locally and handed to the destination the user chooses through the standard iOS share mechanisms. We never receive a copy.
 
 ## 3. Device Permissions
 

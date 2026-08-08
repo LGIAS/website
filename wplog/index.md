@@ -13,7 +13,6 @@ Water Polo Log is a digital water polo scorebook: it keeps the book as the game 
 
 - Keeps the book as the game happens: goals, exclusions, penalties, timeouts, cards, and more, grouped by period, with editing when the table gets hectic.
 - Builds the two-page game sheet live, in the format scorers already know, ready to print, save as a PDF, or send the moment the game ends.
-- Keeps per-team rosters with cap numbers and names, imported or exported as CSV.
 - Tracks player stats alongside the book for teams that want them; the book never depends on them.
 - Exports the full game as a standard file you can share, archive, or open elsewhere.
 - Supports the rulesets used around the world, so club, high school, and college games all score correctly.
