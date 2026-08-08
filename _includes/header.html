@@ -28,4 +28,12 @@
       </div>
     </nav>
   </div>
+  <script>
+    // A bare <details> dropdown stays open until its summary is clicked
+    // again; close it when a click lands anywhere outside it.
+    document.addEventListener('click', function (e) {
+      var dd = document.querySelector('.nav-dropdown');
+      if (dd && dd.open && !dd.contains(e.target)) dd.removeAttribute('open');
+    });
+  </script>
 </header>
