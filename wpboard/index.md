@@ -47,7 +47,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
   font-weight: 600;
 }
 .board-buy-col .buy-btn:hover { text-decoration: none; color: #fff; }
-.board-buy-col .badge-img { height: 40px; width: auto; vertical-align: middle; }
+.board-buy-col .badge-img { width: 150px; height: auto; vertical-align: middle; }
 .board-buy-col .fine { font-size: 0.85rem; color: #777; align-self: end; margin-bottom: 0; }
 </style>
 
