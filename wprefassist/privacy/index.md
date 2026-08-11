@@ -3,7 +3,7 @@ layout: page
 title: Water Polo Referee Companion Privacy Policy
 ---
 
-Last updated: July 14, 2026
+Last updated: August 10, 2026
 
 Los Gatos Integrated Applied Systems LLC ("we", "our", or "us") provides the Water Polo Referee Companion mobile application (the "App"). We are committed to protecting user privacy. This Privacy Policy explains our practices regarding information collection, use, and disclosure.
 
@@ -17,6 +17,7 @@ To provide its core functionality, the App requires access to certain device fea
 
 - **Bluetooth:** Used to connect to a companion Water Polo Board and receive live game timing over a local wireless connection. No tracking or location data is associated with Bluetooth operations, and no data is shared externally.
 - **Audio playback:** Used to play spoken timing and score cues through your selected output, such as your phone's headphones or a Bluetooth headset. The App does not record audio.
+- **Camera:** Used solely by the course measuring feature to run the live augmented-reality view that places measurement marks on the pool deck. The camera image is processed on the device in real time for this display only; the App does not record, store, or transmit photos or video.
 
 ## 3. Third-Party Services and Platform Analytics
 
