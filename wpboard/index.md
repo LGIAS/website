@@ -39,14 +39,6 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 }
 .board-buy-col .buy-btn:hover { text-decoration: none; color: #fff; }
 .board-buy-col .fine { font-size: 0.85rem; color: #777; }
-.board-buy-col .pick {
-  display: flex;
-  align-items: center;
-  gap: 0.7rem;
-  margin: 0.8rem 0;
-}
-.board-buy-col .pick img { width: 56px; height: auto; border-radius: 8px; flex-shrink: 0; }
-.board-buy-col .pick div { font-size: 0.9rem; }
 </style>
 
 The board runs on an affordable, off-the-shelf developer board about the size of a stick of gum. Get one ready to go from us, or build your own in a few minutes; it is the same board and the same firmware either way, so pick whichever suits you:
@@ -54,27 +46,20 @@ The board runs on an affordable, off-the-shelf developer board about the size of
 <div class="board-buy-grid">
 <div class="board-buy-col">
 <h3>Ready to pair, from us</h3>
-<p style="text-align: center;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px;"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6 Water Polo Board" style="display: block; width: 110px; height: auto; border-radius: 9px;"></span></p>
+<p style="text-align: center;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6 Water Polo Board" style="display: block; width: 110px; height: auto; border-radius: 9px;"></span></p>
 <p><strong>$14.99</strong> + shipping and tax. An M5Stack NanoC6 with the firmware already installed and tested: nothing to flash, nothing to set up. Pair it with the app and go.</p>
 <p style="text-align: center; margin: 1rem 0 0.5rem;"><a class="buy-btn" href="https://buy.stripe.com/aFa3cu4Shci86cmc9Fg3600">Buy now</a></p>
 <p class="fine">Ships by USPS within the US. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
 </div>
 <div class="board-buy-col">
 <h3>Build it yourself</h3>
-<p>Buy a board, then load the free firmware by <a href="/flash">setting it up in your browser</a>: a one-time step that takes a couple of minutes. Any of these works:</p>
-<div class="pick">
-<a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><img src="/assets/nanoc6.webp" alt="M5Stack NanoC6"></a>
-<div><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><strong>M5Stack NanoC6</strong></a>: the smallest, in a tidy little box.</div>
-</div>
-<div class="pick">
-<a href="https://www.amazon.com/dp/B0D2NKVB34?tag=lgias-20" target="_blank" rel="noopener"><img src="/assets/xiao-c6.jpg" alt="Seeed XIAO ESP32C6"></a>
-<div><a href="https://www.amazon.com/dp/B0D2NKVB34?tag=lgias-20" target="_blank" rel="noopener"><strong>XIAO ESP32C6</strong></a>: small and beginner-friendly.</div>
-</div>
-<div class="pick">
-<a href="https://www.amazon.com/dp/B0DCGB5QSR?tag=lgias-20" target="_blank" rel="noopener"><img src="/assets/devkitm.png" alt="ESP32-C6-DevKitM-1 developer board"></a>
-<div><a href="https://www.amazon.com/dp/B0DCGB5QSR?tag=lgias-20" target="_blank" rel="noopener"><strong>ESP32-C6 dev board, 2-pack</strong></a>: a dependable workhorse, and you get a spare.</div>
-</div>
-<p class="fine">You will need a <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C data cable</a> and a computer running Chrome or Edge for the one-time setup.</p>
+<p style="text-align: center;"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6" style="display: block; width: 110px; height: auto; border-radius: 9px;"></span></a></p>
+<ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
+<li><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><strong>Order the M5Stack NanoC6</strong></a> from Amazon.</li>
+<li><a href="/flash"><strong>Flash our firmware</strong></a>, free, in your browser.</li>
+<li><strong>Pair</strong> with the app at the pool.</li>
+</ol>
+<p class="fine"><a href="https://www.amazon.com/s?k=esp32-c6+dev+board&amp;tag=lgias-20" target="_blank" rel="noopener">Other ESP32-C6 boards</a> work too. The one-time flash needs a <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C data cable</a> and a computer running Chrome or Edge.</p>
 </div>
 </div>
 
