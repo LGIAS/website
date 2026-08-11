@@ -76,7 +76,7 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <a href="/wpboard"><strong>Water Polo Board</strong></a>
 <p class="blurb">A small wireless receiver that brings the pool's scoreboard timing to your phone.</p>
 <div class="spacer"></div>
-<p class="card-foot"><a class="buy-black" href="https://buy.stripe.com/aFa3cu4Shci86cmc9Fg3600">Buy now</a></p>
+<p class="card-foot"><a class="buy-black" href="/wpboard#getting-one-is-easy">Buy now</a></p>
 </div>
 <div class="suite-card">
 <a href="/wpcam"><img class="app-icon" src="/assets/camera-icon.png" alt="Water Polo Camera"></a>
