@@ -58,25 +58,23 @@ The board runs on an affordable, off-the-shelf developer board about the size of
 <h3>Ready to pair, from us</h3>
 <p style="text-align: center;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6 Water Polo Board" style="width: 110px; height: auto; border-radius: 9px;"></p>
 <ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
-<li><strong>M5Stack NanoC6</strong>, our firmware installed.</li>
 <li><strong>Order</strong>: $14.99 + tax + shipping.</li>
 <li><strong>Pair</strong> with the app.</li>
 <li><strong>That's it.</strong></li>
 </ol>
 <p class="btn-row"><a class="buy-btn" href="https://buy.stripe.com/aFa3cu4Shci86cmc9Fg3600">Buy now</a></p>
-<p class="fine">Ships by USPS within the US. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
+<p class="fine">An M5Stack NanoC6 with our firmware installed and tested.<br>Ships by USPS within the US. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
 </div>
 <div class="board-buy-col">
 <h3>Build it yourself</h3>
 <p style="text-align: center;"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6" style="width: 110px; height: auto; border-radius: 9px;"></a></p>
 <ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
-<li><strong>M5Stack NanoC6</strong>, flash it yourself.</li>
 <li><strong>Order</strong> from Amazon.</li>
 <li><a href="/flash"><strong>Flash</strong></a> our free firmware.*</li>
 <li><strong>Pair</strong> with the app.</li>
 </ol>
 <p class="btn-row"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><img class="badge-img" src="/assets/available-at-amazon.png" alt="Available at Amazon"></a></p>
-<p class="fine"><a href="https://www.amazon.com/s?k=esp32-c6+dev+board&amp;tag=lgias-20" target="_blank" rel="noopener">Other ESP32-C6 boards</a> work too.<br>* The one-time flash needs a <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C data cable</a> and a computer running Chrome or Edge.</p>
+<p class="fine">An M5Stack NanoC6; you flash our free firmware yourself.<br><a href="https://www.amazon.com/s?k=esp32-c6+dev+board&amp;tag=lgias-20" target="_blank" rel="noopener">Other ESP32-C6 boards</a> work too.<br>* The one-time flash needs a <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C data cable</a> and a computer running Chrome or Edge.</p>
 </div>
 </div>
 
