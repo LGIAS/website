@@ -46,19 +46,24 @@ The board runs on an affordable, off-the-shelf developer board about the size of
 <div class="board-buy-grid">
 <div class="board-buy-col">
 <h3>Ready to pair, from us</h3>
-<p style="text-align: center;"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6 Water Polo Board" style="display: block; width: 110px; height: auto; border-radius: 9px;"></span></p>
-<p><strong>$14.99</strong> + shipping and tax. An M5Stack NanoC6 with the firmware already installed and tested: nothing to flash, nothing to set up. Pair it with the app and go.</p>
+<p style="text-align: center;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6 Water Polo Board" style="width: 110px; height: auto; border-radius: 9px;"></p>
+<ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
+<li><strong>Order</strong> your board: $14.99 + shipping and tax.</li>
+<li><strong>Pair</strong> with the app at the pool.</li>
+<li><strong>That's it.</strong></li>
+</ol>
 <p style="text-align: center; margin: 1rem 0 0.5rem;"><a class="buy-btn" href="https://buy.stripe.com/aFa3cu4Shci86cmc9Fg3600">Buy now</a></p>
-<p class="fine">Ships by USPS within the US. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
+<p class="fine">An M5Stack NanoC6 with our firmware installed and tested. Ships by USPS within the US. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
 </div>
 <div class="board-buy-col">
 <h3>Build it yourself</h3>
-<p style="text-align: center;"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><span style="display: inline-block; background: #1c1c1e; padding: 5px; border-radius: 14px;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6" style="display: block; width: 110px; height: auto; border-radius: 9px;"></span></a></p>
+<p style="text-align: center;"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6" style="width: 110px; height: auto; border-radius: 9px;"></a></p>
 <ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
-<li><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><strong>Order the M5Stack NanoC6</strong></a> from Amazon.</li>
+<li><strong>Order</strong> the M5Stack NanoC6 from Amazon.</li>
 <li><a href="/flash"><strong>Flash our firmware</strong></a>, free, in your browser.</li>
 <li><strong>Pair</strong> with the app at the pool.</li>
 </ol>
+<p style="text-align: center; margin: 1rem 0 0.5rem;"><a class="buy-btn" href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener">Order from Amazon</a></p>
 <p class="fine"><a href="https://www.amazon.com/s?k=esp32-c6+dev+board&amp;tag=lgias-20" target="_blank" rel="noopener">Other ESP32-C6 boards</a> work too. The one-time flash needs a <a href="https://www.amazon.com/s?k=usb-c+data+cable&amp;tag=lgias-20" target="_blank" rel="noopener">USB-C data cable</a> and a computer running Chrome or Edge.</p>
 </div>
 </div>

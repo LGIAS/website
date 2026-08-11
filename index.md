@@ -45,6 +45,19 @@ title: Apps and connected hardware
 .suite-card .card-foot { margin: 0.75rem 0 0; }
 .suite-card .card-foot img { height: 40px; width: auto; }
 .suite-card .card-foot em { font-size: 0.85rem; color: #888; }
+/* Our own buy button, sized and colored to sit beside Apple's badge. */
+.suite-card .buy-black {
+  display: inline-block;
+  background: #000;
+  color: #fff;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 1.3rem;
+  border-radius: 7px;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.suite-card .buy-black:hover { text-decoration: none; color: #fff; }
 .suite-card .spacer { margin-top: auto; }
 </style>
 
@@ -62,6 +75,8 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <a href="/wpboard"><img class="app-icon" src="/assets/wpboard.png" alt="Water Polo Board"></a>
 <a href="/wpboard"><strong>Water Polo Board</strong></a>
 <p class="blurb">A small wireless receiver that brings the pool's scoreboard timing to your phone.</p>
+<div class="spacer"></div>
+<p class="card-foot"><a class="buy-black" href="https://buy.stripe.com/aFa3cu4Shci86cmc9Fg3600">Buy now</a></p>
 </div>
 <div class="suite-card">
 <a href="/wpcam"><img class="app-icon" src="/assets/camera-icon.png" alt="Water Polo Camera"></a>
