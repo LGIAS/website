@@ -58,11 +58,11 @@ Every Water Polo Board is the same tiny, affordable gadget, about the size of a 
 <h3>From us, ready to use</h3>
 <p style="text-align: center;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6 Water Polo Board" style="width: 110px; height: auto; border-radius: 9px;"></p>
 <ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
-<li><strong>Order</strong>: $24.99 + tax, free shipping.</li>
+<li><strong>Order</strong>: $19.99 + tax, free shipping.</li>
 <li><strong>Pair</strong> with the app.</li>
 <li><strong>That's it.</strong></li>
 </ol>
-<p class="btn-row"><a class="buy-btn" href="https://buy.stripe.com/6oU4gy98x5TK7gq0qXg3602">Buy now</a></p>
+<p class="btn-row"><a class="buy-btn" href="https://buy.stripe.com/28E00ickJ6XOfMW2z5g3603">Buy now</a></p>
 <p class="fine">An M5Stack NanoC6 with our software already installed and tested.<br>Ships free by USPS within the US; tax added where applicable. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
 </div>
 <div class="board-buy-col">
