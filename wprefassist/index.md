@@ -20,7 +20,7 @@ Each cue is short, spoken, and can be turned on or off on its own:
 - **"Shot clock is game clock"**: the game clock has dropped below the shot clock.
 - **"Score is X to Y"**: the score has changed.
 
-<p style="text-align: center; margin: 1.5rem 0;">
+<p style="text-align: center; margin: 1.5rem auto; max-width: 560px;">
 <span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-main.png" alt="Receiving live: period, game clock, shot clock, and score" width="150" height="326" style="display: block; border-radius: 16px;"></span>
 <span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-cue.png" alt="A cue on screen as it is spoken: Under one minute" width="150" height="326" style="display: block; border-radius: 16px;"></span>
 <span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-course.png" alt="The Course tab's measuring modes: One End, Entire Sideline, Goal Line, Entire Pool" width="150" height="326" style="display: block; border-radius: 16px;"></span>
