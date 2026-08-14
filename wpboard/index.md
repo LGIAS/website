@@ -25,7 +25,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
 .flow-art { height: 170px; display: flex; align-items: center; justify-content: center; }
 .flow-art img { display: block; width: auto; }
 .flow-console img { height: 142px; }
-.flow-board img { height: 132px; }
+.flow-board img { height: 150px; }
 .flow-phone { background: #1c1c1e; padding: 4px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.22); }
 .flow-phone img { height: 152px; border-radius: 10px; }
 .flow-cap { text-align: center; font-size: 0.9rem; line-height: 1.35; margin-top: 0.5rem; }
@@ -41,7 +41,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
   .flow { grid-template-columns: minmax(0, 1fr); gap: 0; max-width: 320px; }
   .flow-art { height: auto; }
   .flow-console img { height: 118px; }
-  .flow-board img { height: 112px; }
+  .flow-board img { height: 126px; }
   .flow-phone img { height: 132px; }
   .flow-hop { height: auto; flex-direction: column; gap: 0.3rem; margin: 0.9rem 0; }
   .flow-hop .wave-h { display: none; }
@@ -68,8 +68,8 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
 </svg>
 </div>
 <div>
-<div class="flow-art flow-board"><img src="/assets/m5nanoc6.png" alt="The Water Polo Board, an M5Stack NanoC6 about the size of a stick of gum"></div>
-<div class="flow-cap"><strong>Water Polo Board</strong><br><span>relays scoreboard data.</span></div>
+<div class="flow-art flow-board"><img src="/assets/m5nanoc6_power.jpg" alt="The Water Polo Board, about the size of a stick of gum, plugged into a USB power bank"></div>
+<div class="flow-cap"><strong>Water Polo Board</strong><br><span>relays scoreboard data.<br>(powered over USB)</span></div>
 </div>
 <div class="flow-hop">
 <div class="flow-hop-label">Bluetooth</div>
