@@ -139,7 +139,7 @@ Every Water Polo Board is the same tiny, affordable gadget, about the size of a 
 <h3>From us, ready to use</h3>
 <p style="text-align: center;"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6 Water Polo Board" style="width: 110px; height: auto; border-radius: 9px;"></p>
 <ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
-<li><strong>Order</strong>: $19.99 + tax, free shipping.</li>
+<li><strong>Order</strong>: $19.99. Free shipping.</li>
 <li><strong>Pair</strong> with the app.</li>
 <li><strong>That's it.</strong></li>
 </ol>
