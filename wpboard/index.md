@@ -51,7 +51,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
 
 <div class="flow">
 <div>
-<div class="flow-art flow-console"><img src="/assets/console.jpg" alt="A Colorado Time Systems Wireless Tabletop Controller, the console the table crew operates"></div>
+<div class="flow-art flow-console"><img src="/assets/console.jpg" alt="The wireless tabletop controller the table crew operates at the scorer's table"></div>
 <div class="flow-cap"><strong>Pool scoreboard system</strong><br><span>broadcasts scoreboard data.</span></div>
 </div>
 <div class="flow-hop">
