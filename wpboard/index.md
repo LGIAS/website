@@ -9,7 +9,7 @@ Water Polo Board is a small wireless receiver you bring to the pool. It feeds li
 
 ## How it works
 
-The pool's scoreboard already broadcasts its timing wirelessly. The board quietly listens to that broadcast and passes it along to your phone over Bluetooth. That is the whole job: a receiver, one way, always listening and never talking back.
+The pool's scoreboard already broadcasts its timing wirelessly. The Board quietly listens to that broadcast and passes it along to your phone over Bluetooth. That is the whole job: a receiver, one way, always listening and never talking back.
 
 <style>
 /* Three separate photographs laid out as a chain, rather than one wide image,
@@ -34,7 +34,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 .flow-hop-label { font-size: 0.75rem; color: #888; text-align: center; white-space: nowrap; }
 .flow-hop svg { display: block; }
 .flow-hop .wave-v { display: none; }
-.flow-note { text-align: center; font-weight: 600; margin: 1.1rem 0 1.75rem; }
+.flow-note { text-align: center; margin: 1.1rem 0 1.75rem; }
 /* Stacked on a phone: the chain runs top to bottom, so the arcs are redrawn
    pointing down rather than rotated, which would leave them in a sideways box. */
 @media screen and (max-width: 560px) {
@@ -52,7 +52,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 <div class="flow">
 <div>
 <div class="flow-art flow-console"><img src="/assets/console.jpg" alt="A Colorado Time Systems Wireless Tabletop Controller, the console the table crew operates"></div>
-<div class="flow-cap"><strong>Pool scoreboard system</strong><br><span>broadcasts its timing</span></div>
+<div class="flow-cap"><strong>Pool scoreboard system</strong><br><span>Broadcasts scoreboard data</span></div>
 </div>
 <div class="flow-hop">
 <div class="flow-hop-label">over the air</div>
@@ -69,7 +69,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 </div>
 <div>
 <div class="flow-art flow-board"><img src="/assets/m5nanoc6.png" alt="The Water Polo Board, an M5Stack NanoC6 about the size of a stick of gum"></div>
-<div class="flow-cap"><strong>Water Polo Board</strong><br><span>listens to the broadcast</span></div>
+<div class="flow-cap"><strong>Water Polo Board</strong><br><span>Relays scoreboard data</span></div>
 </div>
 <div class="flow-hop">
 <div class="flow-hop-label">Bluetooth</div>
@@ -86,11 +86,11 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 </div>
 <div>
 <div class="flow-art"><span class="flow-phone"><img src="/assets/wpcam-record.jpg" alt="A phone recording the game with the scoreboard drawn on the video"></span></div>
-<div class="flow-cap"><strong>Your phone</strong><br><span>shows the game live</span></div>
+<div class="flow-cap"><strong>Your phone or tablet</strong><br><span>Receives scoreboard data</span></div>
 </div>
 </div>
 
-<p class="flow-note">Nothing plugs into the scoreboard. The board's only cable is power.</p>
+<p class="flow-note">Nothing plugs into the scoreboard. The Board's only cable is power.</p>
 
 ## Getting one is easy
 
@@ -132,7 +132,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The board quietl
 .board-buy-col .fine { font-size: 0.85rem; color: #777; align-self: end; margin-bottom: 0; }
 </style>
 
-Every Water Polo Board is the same tiny, affordable gadget, about the size of a stick of gum, running our free software. The only question is who loads the software onto it: we can do that for you, or you can do it yourself in a few minutes with a computer and a USB cable. Same board either way:
+Every Water Polo Board is the same tiny, affordable gadget, about the size of a stick of gum, running our free software. The only question is who loads the software onto it: we can do that for you, or you can do it yourself in a few minutes with a computer and a USB cable. Same Board either way:
 
 <div class="board-buy-grid">
 <div class="board-buy-col">
@@ -151,7 +151,7 @@ Every Water Polo Board is the same tiny, affordable gadget, about the size of a 
 <p style="text-align: center;"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><img src="/assets/m5nanoc6.png" alt="M5Stack NanoC6" style="width: 110px; height: auto; border-radius: 9px;"></a></p>
 <ol style="margin: 0.6rem 0 0.8rem; padding-left: 1.4rem;">
 <li><strong>Order</strong> from Amazon.</li>
-<li><a href="/flash"><strong>Install</strong></a> our free software on the board.*</li>
+<li><a href="/flash"><strong>Install</strong></a> our free software on the Board.*</li>
 <li><strong>Pair</strong> with the app.</li>
 </ol>
 <p class="btn-row"><a href="https://www.amazon.com/dp/B0D8Q32F67?tag=lgias-20" target="_blank" rel="noopener"><img class="badge-img" src="/assets/available-at-amazon.png" alt="Available at Amazon"></a></p>
@@ -161,7 +161,7 @@ Every Water Polo Board is the same tiny, affordable gadget, about the size of a 
 
 <small>As an Amazon Associate, LGIAS earns from qualifying purchases.</small>
 
-Either way, it could not be lower maintenance: keep it in its antistatic bag, power it from any <a href="https://www.amazon.com/s?k=usb+power+bank&amp;tag=lgias-20" target="_blank" rel="noopener">USB power bank</a> (you can even plug it into your phone), and it starts listening. Once set up, the board keeps itself up to date through the app over Bluetooth.
+Either way, it could not be lower maintenance: keep it in its antistatic bag, power it from any <a href="https://www.amazon.com/s?k=usb+power+bank&amp;tag=lgias-20" target="_blank" rel="noopener">USB power bank</a> (you can even plug it into your phone), and it starts listening. Once set up, the Board keeps itself up to date through the app over Bluetooth.
 
 ---
 

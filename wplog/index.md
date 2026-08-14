@@ -28,11 +28,11 @@ Water Polo Log is a digital water polo scorebook: it keeps the book as the game 
 
 ## On the web today
 
-Water Polo Log's web version, wplog, is running right now at [log.wpref.org](https://log.wpref.org): the same book and the same game sheet, free in any browser. What it does not have is the board: the [Water Polo Board](/wpboard) integration below is native to the app.
+Water Polo Log's web version, wplog, is running right now at [log.wpref.org](https://log.wpref.org): the same book and the same game sheet, free in any browser. What it does not have is the Board: the [Water Polo Board](/wpboard) integration below is native to the app.
 
-## Works with the board, works without it
+## Works with the Board, works without it
 
-Pair a [Water Polo Board](/wpboard) at a pool with a compatible scoreboard and the game clock rides along with your logging: event times fill themselves in from the live clock. No board? Everything works exactly the same; you enter times by hand, or skip them entirely.
+Pair a [Water Polo Board](/wpboard) at a pool with a compatible scoreboard and the game clock rides along with your logging: event times fill themselves in from the live clock. No Board? Everything works exactly the same; you enter times by hand, or skip them entirely.
 
 ## Using it at the pool
 

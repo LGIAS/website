@@ -36,7 +36,7 @@ The game clock and shot clock arrive live from a paired [Water Polo Board](/wpbo
 
 ## Using it at the pool
 
-Set your teams once and they are ready next time. At the pool, pair the board, prop your phone or iPad up on the deck, and start recording. The period, game clock, and shot clock ride on the video the moment they change on the scoreboard, and you tap in goals and exclusions as they happen. When the game ends, you stop recording, and the clip is already in your camera roll with the scoreboard on it: nothing to edit, nothing to add later.
+Set your teams once and they are ready next time. At the pool, pair the Board, prop your phone or iPad up on the deck, and start recording. The period, game clock, and shot clock ride on the video the moment they change on the scoreboard, and you tap in goals and exclusions as they happen. When the game ends, you stop recording, and the clip is already in your camera roll with the scoreboard on it: nothing to edit, nothing to add later.
 
 ## What you need
 

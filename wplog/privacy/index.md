@@ -19,7 +19,7 @@ Game data entered in the App (game logs, statistics, and game sheets) stays on t
 
 To provide its core functionality, the App may request access to certain device features. These permissions are used exclusively for local operations:
 
-- **Bluetooth:** Used to scan for and connect to a companion Water Polo Board to receive live scoreboard timing data over a local wireless network connection. This is optional; the App is fully functional without a board. No tracking or location data is associated with Bluetooth operations, and no data is shared externally.
+- **Bluetooth:** Used to scan for and connect to a companion Water Polo Board to receive live scoreboard timing data over a local wireless network connection. This is optional; the App is fully functional without a Board. No tracking or location data is associated with Bluetooth operations, and no data is shared externally.
 
 ## 4. Network Communications
 
