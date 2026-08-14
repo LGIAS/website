@@ -52,7 +52,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
 <div class="flow">
 <div>
 <div class="flow-art flow-console"><img src="/assets/console.jpg" alt="A Colorado Time Systems Wireless Tabletop Controller, the console the table crew operates"></div>
-<div class="flow-cap"><strong>Pool scoreboard system</strong><br><span>Broadcasts scoreboard data</span></div>
+<div class="flow-cap"><strong>Pool scoreboard system</strong><br><span>broadcasts scoreboard data.</span></div>
 </div>
 <div class="flow-hop">
 <div class="flow-hop-label">over the air</div>
@@ -69,7 +69,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
 </div>
 <div>
 <div class="flow-art flow-board"><img src="/assets/m5nanoc6.png" alt="The Water Polo Board, an M5Stack NanoC6 about the size of a stick of gum"></div>
-<div class="flow-cap"><strong>Water Polo Board</strong><br><span>Relays scoreboard data</span></div>
+<div class="flow-cap"><strong>Water Polo Board</strong><br><span>relays scoreboard data.</span></div>
 </div>
 <div class="flow-hop">
 <div class="flow-hop-label">Bluetooth</div>
@@ -86,7 +86,7 @@ The pool's scoreboard already broadcasts its timing wirelessly. The Board quietl
 </div>
 <div>
 <div class="flow-art"><span class="flow-phone"><img src="/assets/wpcam-record.jpg" alt="A phone recording the game with the scoreboard drawn on the video"></span></div>
-<div class="flow-cap"><strong>Your phone or tablet</strong><br><span>Receives scoreboard data</span></div>
+<div class="flow-cap"><strong>Your phone or tablet</strong><br><span>receives scoreboard data.</span></div>
 </div>
 </div>
 
