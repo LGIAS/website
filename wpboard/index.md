@@ -11,6 +11,87 @@ Water Polo Board is a small wireless receiver you bring to the pool. It feeds li
 
 The pool's scoreboard already broadcasts its timing wirelessly. The board quietly listens to that broadcast and passes it along to your phone over Bluetooth. That is the whole job: a receiver, one way, always listening and never talking back.
 
+<style>
+/* Three separate photographs laid out as a chain, rather than one wide image,
+   so each caption sits under its own object and the row can stack on a phone. */
+.flow {
+  display: grid;
+  grid-template-columns: 1fr 76px 1fr 76px 1fr;
+  align-items: start;
+  gap: 0.5rem;
+  max-width: 700px;
+  margin: 1.75rem auto 0;
+}
+.flow-art { height: 170px; display: flex; align-items: center; justify-content: center; }
+.flow-art img { display: block; width: auto; }
+.flow-console img { height: 142px; }
+.flow-board img { height: 132px; }
+.flow-phone { background: #1c1c1e; padding: 4px; border-radius: 14px; box-shadow: 0 3px 12px rgba(0, 0, 0, 0.22); }
+.flow-phone img { height: 152px; border-radius: 10px; }
+.flow-cap { text-align: center; font-size: 0.9rem; line-height: 1.35; margin-top: 0.5rem; }
+.flow-cap span { color: #777; }
+.flow-hop { height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.4rem; }
+.flow-hop-label { font-size: 0.75rem; color: #888; text-align: center; white-space: nowrap; }
+.flow-hop svg { display: block; }
+.flow-hop .wave-v { display: none; }
+.flow-note { text-align: center; font-weight: 600; margin: 1.1rem 0 1.75rem; }
+/* Stacked on a phone: the chain runs top to bottom, so the arcs are redrawn
+   pointing down rather than rotated, which would leave them in a sideways box. */
+@media screen and (max-width: 560px) {
+  .flow { grid-template-columns: minmax(0, 1fr); gap: 0; max-width: 320px; }
+  .flow-art { height: auto; }
+  .flow-console img { height: 118px; }
+  .flow-board img { height: 112px; }
+  .flow-phone img { height: 132px; }
+  .flow-hop { height: auto; flex-direction: column; gap: 0.3rem; margin: 0.9rem 0; }
+  .flow-hop .wave-h { display: none; }
+  .flow-hop .wave-v { display: block; }
+}
+</style>
+
+<div class="flow">
+<div>
+<div class="flow-art flow-console"><img src="/assets/console.jpg" alt="A Colorado Time Systems Wireless Tabletop Controller, the console the table crew operates"></div>
+<div class="flow-cap"><strong>Pool scoreboard system</strong><br><span>broadcasts its timing</span></div>
+</div>
+<div class="flow-hop">
+<div class="flow-hop-label">over the air</div>
+<svg class="wave-h" viewBox="0 0 28 60" width="34" height="73" fill="none" stroke="#2a7ae2" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+<path d="M6.43 22.34 A10 10 0 0 1 6.43 37.66"></path>
+<path d="M11.57 16.21 A18 18 0 0 1 11.57 43.79"></path>
+<path d="M16.72 10.08 A26 26 0 0 1 16.72 49.92"></path>
+</svg>
+<svg class="wave-v" viewBox="0 0 60 28" width="73" height="34" fill="none" stroke="#2a7ae2" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+<path d="M22.34 6.43 A10 10 0 0 0 37.66 6.43"></path>
+<path d="M16.21 11.57 A18 18 0 0 0 43.79 11.57"></path>
+<path d="M10.08 16.72 A26 26 0 0 0 49.92 16.72"></path>
+</svg>
+</div>
+<div>
+<div class="flow-art flow-board"><img src="/assets/m5nanoc6.png" alt="The Water Polo Board, an M5Stack NanoC6 about the size of a stick of gum"></div>
+<div class="flow-cap"><strong>Water Polo Board</strong><br><span>listens to the broadcast</span></div>
+</div>
+<div class="flow-hop">
+<div class="flow-hop-label">Bluetooth</div>
+<svg class="wave-h" viewBox="0 0 28 60" width="34" height="73" fill="none" stroke="#2a7ae2" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+<path d="M6.43 22.34 A10 10 0 0 1 6.43 37.66"></path>
+<path d="M11.57 16.21 A18 18 0 0 1 11.57 43.79"></path>
+<path d="M16.72 10.08 A26 26 0 0 1 16.72 49.92"></path>
+</svg>
+<svg class="wave-v" viewBox="0 0 60 28" width="73" height="34" fill="none" stroke="#2a7ae2" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+<path d="M22.34 6.43 A10 10 0 0 0 37.66 6.43"></path>
+<path d="M16.21 11.57 A18 18 0 0 0 43.79 11.57"></path>
+<path d="M10.08 16.72 A26 26 0 0 0 49.92 16.72"></path>
+</svg>
+</div>
+<div>
+<div class="flow-art"><span class="flow-phone"><img src="/assets/wpcam-record.jpg" alt="A phone recording the game with the scoreboard drawn on the video"></span></div>
+<div class="flow-cap"><strong>Your phone</strong><br><span>shows the game live</span></div>
+</div>
+</div>
+
+<p class="flow-note">Nothing plugs into the scoreboard. The board's only cable is power.</p>
+
 ## Getting one is easy
 
 <style>
