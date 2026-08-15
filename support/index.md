@@ -17,7 +17,7 @@ title: Support
 .faq[open] > summary { color: #2a7ae2; }
 .faq > summary + * { margin-top: 0.3rem; }
 .faq > *:last-child { margin-bottom: 1rem; }
-.faq-group { margin-top: 2rem; }
+.faq-group { margin-top: 2.25rem; }
 .faq-fig { text-align: center; margin: 1rem 0; }
 .faq-fig img { max-width: 100%; height: auto; }
 .faq-phone {
@@ -33,10 +33,10 @@ title: Support
 Answers to the questions people ask most. If yours is not here, email
 [support@lgias.com](mailto:support@lgias.com) and it probably will be soon.
 
-<h2 class="faq-group">Setting up</h2>
+<h2 class="faq-group">Water Polo Board</h2>
 
 <details class="faq" id="power" markdown="1">
-<summary>How do I power the Board?</summary>
+<summary>How do I power it?</summary>
 
 Any USB-C power source: a wall charger, a battery pack, a laptop, or your phone
 itself. There is no battery inside it and no on/off switch. It starts working as
@@ -61,20 +61,6 @@ on the timing equipment, and nothing to ask the table crew for.
 {% include board-flow.html %}
 
 </details>
-
-<details class="faq" id="headset" markdown="1">
-<summary>How do I connect a referee headset?</summary>
-
-Put the headset into pairing mode with a long press on the call button, the
-green one on most radios, then pair it in iOS Settings, under Bluetooth, like
-any other headset. Water Polo Referee Companion speaks through whatever your
-phone is playing audio to.
-
-<p class="faq-fig"><img src="/assets/referee-radio.png" alt="A referee radio, with the green call button that puts it into pairing mode" style="max-width: 300px;" loading="lazy"></p>
-
-</details>
-
-<h2 class="faq-group">At the pool</h2>
 
 <details class="faq" id="working" markdown="1">
 <summary>How do I know it is working?</summary>
@@ -101,6 +87,11 @@ Work through these in order.
 4. If more than one turns up, pick the one whose clock matches the one you can
    see on the wall.
 
+If none of that helps, the pool may not be broadcasting at all. Some scoreboards
+are wired only and put nothing on the air. Of the ones that do broadcast, the
+Board understands most Colorado Time Systems equipment, but not every model, and
+nothing from other manufacturers.
+
 </details>
 
 <details class="faq" id="equipment" markdown="1">
@@ -118,7 +109,7 @@ the clock and the question does not arise.
 </details>
 
 <details class="faq" id="placement" markdown="1">
-<summary>Where do I put the Board, and how far away can I be?</summary>
+<summary>Where do I put it, and how far away can I be?</summary>
 
 There are two distances, and they are not the same.
 
@@ -133,7 +124,7 @@ Board with you and solves it.
 </details>
 
 <details class="faq" id="lights" markdown="1">
-<summary>What does the light on the Board mean?</summary>
+<summary>What does the light mean?</summary>
 
 On the Water Polo Board, with its single blue light:
 
@@ -148,7 +139,18 @@ an update.
 
 </details>
 
-<h2 class="faq-group">Common questions</h2>
+<details class="faq" id="update" markdown="1">
+<summary>How do I update it?</summary>
+
+In the app, open Settings, then your Board, and take the upgrade option when one
+is offered. The update travels over Bluetooth, so your phone needs to be near
+the Board while it runs, and it takes about a minute.
+
+The Board does not need to be at a pool for this, and it does not need to be
+hearing a scoreboard. Do it at home on the kitchen table, not on the deck ten
+minutes before a game.
+
+</details>
 
 <details class="faq" id="interference" markdown="1">
 <summary>Will this interfere with the scoreboard?</summary>
@@ -165,12 +167,37 @@ software that understands it.
 <details class="faq" id="testing" markdown="1">
 <summary>Can I test it before I get to a pool?</summary>
 
-Partly. At home you can confirm that the Board powers up and that your phone
-pairs with it. You cannot confirm that it hears a scoreboard, because there is
-no scoreboard to hear. The first real test is at the pool, with the clock
-running.
+Partly. At home you can confirm that the Board powers up, that your phone pairs
+with it, and that it is running the current software. You cannot confirm that it
+hears a scoreboard, because there is no scoreboard to hear. The first real test
+is at the pool, with the clock running.
 
 </details>
+
+<h2 class="faq-group">Water Polo Referee Companion</h2>
+
+<details class="faq" id="headset" markdown="1">
+<summary>How do I connect a referee headset?</summary>
+
+Put the headset into pairing mode with a long press on the call button, the
+green one on most radios, then pair it in iOS Settings, under Bluetooth, like
+any other headset. Water Polo Referee Companion speaks through whatever your
+phone is playing audio to.
+
+<p class="faq-fig"><img src="/assets/referee-radio.png" alt="A referee radio, with the green call button that puts it into pairing mode" style="max-width: 300px;" loading="lazy"></p>
+
+</details>
+
+<details class="faq" id="course-anywhere" markdown="1">
+<summary>Can I try the course measuring away from a pool?</summary>
+
+Yes, and it is worth doing before you need it. Point the phone at any flat
+ground, a driveway or a gym floor, and measure out a course exactly as you would
+on a deck. Nothing else is needed: no Board, no scoreboard, no pool.
+
+</details>
+
+<h2 class="faq-group">All the apps</h2>
 
 <details class="faq" id="without-board" markdown="1">
 <summary>Do the apps work without a Board?</summary>
@@ -198,6 +225,10 @@ United States
 
 General inquiries: [inquiries@lgias.com](mailto:inquiries@lgias.com)  
 Product and app support: [support@lgias.com](mailto:support@lgias.com)
+
+---
+
+<small>LGIAS is not affiliated with, endorsed by, or sponsored by Colorado Time Systems, which is a trademark of its respective owner.</small>
 
 <script>
 /* Opening a link like /support#lights should reveal that answer, not just
