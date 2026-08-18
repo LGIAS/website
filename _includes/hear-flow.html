@@ -1,0 +1,39 @@
+{% include flow-style.html %}
+<style>
+/* Four objects share the row, so each is a little smaller than in the
+   three-object chain. The radio is the only landscape object and is sized by
+   what fits its column. */
+.flow-4 .flow-console img { height: 112px; }
+.flow-4 .flow-board img { height: 118px; }
+.flow-4 .flow-phone img { height: 150px; }
+.flow-4 .flow-radio img { height: 90px; }
+@media screen and (max-width: 560px) {
+  .flow-4 .flow-console img { height: 118px; }
+  .flow-4 .flow-board img { height: 126px; }
+  .flow-4 .flow-radio img { height: 88px; }
+}
+</style>
+
+<div class="flow flow-4">
+<div>
+<div class="flow-art flow-console"><img src="/assets/console.jpg" alt="The wireless tabletop controller the table crew operates at the scorer's table"></div>
+<div class="flow-cap"><strong>Scoreboard console</strong><br><span>broadcasts scoreboard data.</span></div>
+</div>
+{% include flow-arcs.html label="over the air" %}
+<div>
+<div class="flow-art flow-board"><img src="/assets/m5nanoc6_power.jpg" alt="The Water Polo Board, about the size of a stick of gum, plugged into a USB power bank"></div>
+<div class="flow-cap"><strong>Water Polo Board</strong><br><span>relays scoreboard data.<br>(powered over USB)</span></div>
+</div>
+{% include flow-arcs.html label="Bluetooth" %}
+<div>
+<div class="flow-art"><span class="flow-phone"><img src="/assets/refcompanion-cue.png" alt="The app speaking a cue, with the same words shown on screen"></span></div>
+<div class="flow-cap"><strong>Your Phone</strong><br><span>receives scoreboard data.</span></div>
+</div>
+{% include flow-arcs.html label="Bluetooth" %}
+<div>
+<div class="flow-art flow-radio"><img src="/assets/referee-radio.png" alt="A referee radio of the kind worn on deck, paired to the phone as a headset"></div>
+<div class="flow-cap"><strong>Your Radio</strong><br><span>speaks the cues in your ear.</span></div>
+</div>
+</div>
+
+<p class="flow-note">The radio pairs with your phone in iOS Settings, the same as any other headset. It never pairs with the Board.</p>

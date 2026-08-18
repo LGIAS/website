@@ -37,6 +37,8 @@ Modes cover a single end, the entire sideline with the center derived for you, t
 
 Cues play through your phone's headphones or a Bluetooth headset, the kind many referees already wear on deck. They reach you even with your phone in a pocket. Verified to work with popular water polo referee radios (EJEAS V4C).*
 
+{% include hear-flow.html %}
+
 ## What you need
 
 - For the cues: a paired [Water Polo Board](/wpboard) at a pool with a compatible scoreboard, and wired or Bluetooth headphones.
