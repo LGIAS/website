@@ -97,6 +97,6 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <a href="/wplog"><strong>Water Polo Log</strong></a>
 <p class="blurb">The digital scorebook: the game sheet writes itself.</p>
 <div class="spacer"></div>
-<p class="card-foot"><em>Coming soon to the App Store</em></p>
+<p class="card-foot"><a href="https://apps.apple.com/app/apple-store/id6798921538?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
 </div>
 </div>
