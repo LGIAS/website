@@ -5,20 +5,16 @@ title: Water Polo Referee Companion
 
 <p style="text-align: center;"><img src="/assets/referee-icon.png" alt="Water Polo Referee Companion app icon" style="width: 160px; max-width: 45%; height: auto; border-radius: 22%;"></p>
 
-<p style="text-align: center;"><a href="https://apps.apple.com/app/apple-store/id6792252703?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store" style="height: 40px; width: auto;"></a></p>
+<p class="store-row"><a href="https://apps.apple.com/app/apple-store/id6792252703?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
+<p class="store-note">Coming soon to Google Play</p>
 
 Water Polo Referee Companion keeps your eyes on the water. Paired with a [Water Polo Board](/wpboard), it follows the game clock, shot clock, and score, and speaks short cues to your earpiece at the moments that matter, so you never have to look away from the play to check the clocks or scoreboard. And before the game, it measures the course: the phone marks where every cone goes.
 
 ## What it tells you
 
-Each cue is short, spoken, and can be turned on or off on its own:
-
-- **"Reset"**: the shot clock has reset.
-- **"Shot five"**: five seconds left on the shot clock.
-- **"Game ten"**: ten seconds left on the game clock.
-- **"Under one minute"**: under a minute left in the period.
-- **"Shot clock is game clock"**: the game clock has dropped below the shot clock.
-- **"Score is X to Y"**: the score has changed.
+Short spoken cues at the moments that matter: the shot clock resetting, five
+seconds left on it, ten seconds left in the period, the score after it changes,
+and more. Each one is a few words, and each can be turned on or off on its own.
 
 <p style="text-align: center; margin: 1.5rem auto; max-width: 560px;">
 <span style="display: inline-block; background: #1c1c1e; padding: 6px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.28); margin: 0.4rem 0.45rem; vertical-align: top;"><img src="/assets/refcompanion-main.png" alt="Receiving live: period, game clock, shot clock, and score" width="150" height="326" style="display: block; border-radius: 16px;"></span>
@@ -33,6 +29,8 @@ The course marks (2 m, 5 m, 6 m, and the center) have to go down on the deck bef
 
 Modes cover a single end, the entire sideline with the center derived for you, the goal line with 2 m marked from each actual post, and the whole pool perimeter. The measured lengths are shown as you go. It works at any pool, with no Water Polo Board and no setup: just the phone.
 
+Course measuring is on iPhone and iPad today.
+
 ## How you hear it
 
 Cues play through your phone's headphones or a Bluetooth headset, the kind many referees already wear on deck. They reach you even with your phone in a pocket. Verified to work with popular water polo referee radios (EJEAS V4C).*
@@ -42,7 +40,7 @@ Cues play through your phone's headphones or a Bluetooth headset, the kind many 
 ## What you need
 
 - For the cues: a paired [Water Polo Board](/wpboard) at a pool with a compatible scoreboard, and wired or Bluetooth headphones.
-- For course measuring: just your phone.
+- For course measuring: an iPhone or iPad, and nothing else.
 
 It speaks only to you. It is not a two-way radio and does not connect referees to one another.
 

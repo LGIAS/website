@@ -1,5 +1,18 @@
 <link rel="icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}">
 <style>
+/* An app page's store row: the badge, and under it one line for a second
+   store. Every app page carries the line whether or not it has anything to
+   say in it, so the pages stay aligned with each other. */
+.store-row { text-align: center; margin: 1rem 0 0; }
+.store-row img { height: 40px; width: auto; }
+.store-note {
+  text-align: center;
+  min-height: 1.3em;
+  margin: 0.4rem 0 1.25rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #888;
+}
 /* "Water Polo" nav dropdown (details/summary, no JS). Desktop: floating
    menu under the trigger. Phone (minima hamburger, <=600px): inline group. */
 .nav-dropdown { position: relative; display: inline-block; }

@@ -45,6 +45,15 @@ title: Apps and connected hardware
 .suite-card .card-foot { margin: 0.75rem 0 0; }
 .suite-card .card-foot img { height: 40px; width: auto; }
 .suite-card .card-foot em { font-size: 0.85rem; color: #888; }
+/* One line under every card's badge, for a second store. Kept on all four
+   cards whether or not it carries text, so the badges stay on one line. */
+.suite-card .card-note {
+  min-height: 1.3em;
+  margin: 0.35rem 0 0;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #888;
+}
 /* Our own buy button, sized and colored to sit beside Apple's badge. */
 .suite-card .buy-black {
   display: inline-block;
@@ -77,6 +86,7 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <p class="blurb">A small wireless receiver that brings the pool's scoreboard timing to your phone.</p>
 <div class="spacer"></div>
 <p class="card-foot"><a class="buy-black" href="/wpboard#getting-one-is-easy">Buy now</a></p>
+<p class="card-note"></p>
 </div>
 <div class="suite-card">
 <a href="/wpcam"><img class="app-icon" src="/assets/camera-icon.png" alt="Water Polo Camera"></a>
@@ -84,6 +94,7 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <p class="blurb">Film a game with the live score and clock right on the video.</p>
 <div class="spacer"></div>
 <p class="card-foot"><a href="https://apps.apple.com/app/apple-store/id6792160496?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
+<p class="card-note"></p>
 </div>
 <div class="suite-card">
 <a href="/wprefassist"><img class="app-icon" src="/assets/referee-icon.png" alt="Water Polo Referee Companion"></a>
@@ -91,6 +102,7 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <p class="blurb">Clock and score cues in a referee's headset, and the course marks measured by the phone.</p>
 <div class="spacer"></div>
 <p class="card-foot"><a href="https://apps.apple.com/app/apple-store/id6792252703?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
+<p class="card-note">Coming soon to Google Play</p>
 </div>
 <div class="suite-card">
 <a href="/wplog"><img class="app-icon" src="/assets/wplog-icon.png" alt="Water Polo Log"></a>
@@ -98,5 +110,6 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <p class="blurb">The digital scorebook: the game sheet writes itself.</p>
 <div class="spacer"></div>
 <p class="card-foot"><a href="https://apps.apple.com/app/apple-store/id6798921538?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
+<p class="card-note"></p>
 </div>
 </div>
