@@ -11,6 +11,8 @@ title: QR codes
   max-width: 640px;
   margin: 1.5rem auto 0;
 }
+/* Android sits on its own row, same tile size as the row above. */
+.qr-grid.qr-android { margin-top: 1rem; }
 .qr-tile {
   display: block;
   border: 1px solid #e8e8e8;
@@ -27,33 +29,41 @@ title: QR codes
   .qr-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem; max-width: 100%; }
   .qr-tile { padding: 0.8rem 0.3rem 0.9rem; }
   .qr-tile img { width: 64px; }
-  .qr-tile strong { font-size: 0.8rem; }
+  .qr-tile strong { font-size: 0.85rem; }
 }
 </style>
 
-Tap an app to open its code full screen, then hand them the phone.
+Ask which phone they have, tap, and hand it over.
 
 <div class="qr-grid">
 <a class="qr-tile" href="/assets/qr/wpcam-qr-card.png">
 <img src="/assets/camera-icon.png" alt="">
 <strong>Water Polo Camera</strong>
-<span>Show code</span>
+<span>App Store</span>
 </a>
 <a class="qr-tile" href="/assets/qr/companion-qr-card.png">
 <img src="/assets/referee-icon.png" alt="">
 <strong>Water Polo Referee Companion</strong>
-<span>Show code</span>
+<span>App Store</span>
 </a>
 <a class="qr-tile" href="/assets/qr/wplog-qr-card.png">
 <img src="/assets/wplog-icon.png" alt="">
 <strong>Water Polo Log</strong>
-<span>Show code</span>
+<span>App Store</span>
 </a>
 </div>
 
-Each code goes straight to that app on the App Store. Downloads from these are
+<div class="qr-grid qr-android">
+<a class="qr-tile" href="/assets/qr/companion-play-qr-card.png">
+<img src="/assets/referee-icon.png" alt="">
+<strong>Water Polo Referee Companion</strong>
+<span>Google Play</span>
+</a>
+</div>
+
+Each code goes straight to that app's store listing. Downloads from these are
 counted separately from the website, so it stays clear what a conversation at a
 pool is actually worth.
 
-The [Water Polo Board](/wpboard) has no code of its own: it is not an App Store
+The [Water Polo Board](/wpboard) has no code of its own: it is not a store
 listing, so point people at lgias.com for it.
