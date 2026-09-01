@@ -45,15 +45,19 @@ title: Apps and connected hardware
 .suite-card .card-foot { margin: 0.75rem 0 0; }
 .suite-card .card-foot img { height: 40px; width: auto; }
 .suite-card .card-foot em { font-size: 0.85rem; color: #888; }
-/* One line under every card's badge, for a second store. Kept on all four
-   cards whether or not it carries text, so the badges stay on one line. */
+/* A second store's badge, under the first: a card is too narrow to carry two
+   side by side. The slot is kept on all four cards whether or not it holds a
+   badge, so the first badge stays on one line across the row. */
 .suite-card .card-note {
-  min-height: 1.3em;
+  min-height: 40px;
   margin: 0.35rem 0 0;
-  font-size: 0.85rem;
-  font-style: italic;
-  color: #888;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+/* 36px, not 40px: Google's badge is proportioned differently from Apple's, and
+   matching width is what makes the two read as a stacked pair. */
+.suite-card .card-note img { height: 36px; width: auto; }
 /* Our own buy button, sized and colored to sit beside Apple's badge. */
 .suite-card .buy-black {
   display: inline-block;
@@ -102,7 +106,7 @@ LGIAS builds apps and connected hardware. Today, we build for water polo: tools 
 <p class="blurb">Clock and score cues in a referee's headset, and the course marks measured by the phone.</p>
 <div class="spacer"></div>
 <p class="card-foot"><a href="https://apps.apple.com/app/apple-store/id6792252703?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
-<p class="card-note">Coming soon to Google Play</p>
+<p class="card-note"><a href="https://play.google.com/store/apps/details?id=com.lgias.wprefcompanion&amp;referrer=utm_source%3Dlgias-website%26utm_medium%3Dweb"><img src="/assets/google-play-badge.png" alt="Get it on Google Play"></a></p>
 </div>
 <div class="suite-card">
 <a href="/wplog"><img class="app-icon" src="/assets/wplog-icon.png" alt="Water Polo Log"></a>

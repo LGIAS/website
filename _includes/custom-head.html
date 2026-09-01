@@ -1,18 +1,14 @@
 <link rel="icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}">
 <style>
-/* An app page's store row: the badge, and under it one line for a second
-   store. Every app page carries the line whether or not it has anything to
-   say in it, so the pages stay aligned with each other. */
-.store-row { text-align: center; margin: 1rem 0 0; }
+/* An app page's store row: one badge per store, side by side. Google's badge
+   is saved with its transparent clear space removed, and the two artworks have
+   different proportions (Apple 3.00 wide per 1 tall, Google 3.36), so only one
+   dimension can match. Width is the one that reads as a pair, which puts the
+   Play badge at 36px against Apple's 40px; centring it splits the 4px. */
+.store-row { text-align: center; margin: 1rem 0 1.25rem; }
+.store-row a { display: inline-block; margin: 0 0.35rem; vertical-align: middle; }
 .store-row img { height: 40px; width: auto; }
-.store-note {
-  text-align: center;
-  min-height: 1.3em;
-  margin: 0.4rem 0 1.25rem;
-  font-size: 0.85rem;
-  font-style: italic;
-  color: #888;
-}
+.store-row img.play-badge { height: 36px; }
 /* "Water Polo" nav dropdown (details/summary, no JS). Desktop: floating
    menu under the trigger. Phone (minima hamburger, <=600px): inline group. */
 .nav-dropdown { position: relative; display: inline-block; }

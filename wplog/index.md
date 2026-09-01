@@ -6,7 +6,6 @@ title: Water Polo Log
 <p style="text-align: center;"><img src="/assets/wplog-icon.png" alt="Water Polo Log app icon" style="width: 160px; max-width: 45%; height: auto; border-radius: 22%;"></p>
 
 <p class="store-row"><a href="https://apps.apple.com/app/apple-store/id6798921538?pt=129185827&amp;ct=lgias-website&amp;mt=8"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a></p>
-<p class="store-note"></p>
 
 Water Polo Log is a digital water polo scorebook: it keeps the book as the game runs and delivers the finished game sheet at the final buzzer. Built to stand in for the official paper book, it works just as well as a second book beside one, always added up and never a period behind.
 
