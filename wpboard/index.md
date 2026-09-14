@@ -65,7 +65,7 @@ Every Water Polo Board is the same tiny, affordable gadget, about the size of a 
 <li><strong>That's it.</strong></li>
 </ol>
 <p class="btn-row"><a class="buy-btn" href="https://buy.stripe.com/28E00ickJ6XOfMW2z5g3603">Buy now</a></p>
-<p class="fine">An M5Stack NanoC6 with our software already installed and tested.<br>Ships free by USPS within the US; tax added where applicable. Outside the US? <a href="mailto:inquiries@lgias.com">Email us</a> and we will work something out.</p>
+<p class="fine">An M5Stack NanoC6 with our software already installed and tested.<br>Ships free by USPS within the US; tax added where applicable. Outside the US? <a href="https://buy.stripe.com/28E4gydoNbe430agpVg3604">Order here</a>; import taxes may be due on delivery.</p>
 </div>
 <div class="board-buy-col">
 <h3>From Amazon, you set it up</h3>
